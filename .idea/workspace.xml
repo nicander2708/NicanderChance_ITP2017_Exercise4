@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e296c63-6e12-40f5-9b66-3ac17dab2440" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise9.py" />
-    </list>
+    <list default="true" id="7e296c63-6e12-40f5-9b66-3ac17dab2440" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise7.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="exercise7.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise7.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -101,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise9.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -138,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -238,7 +228,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -314,14 +304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -334,6 +316,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
